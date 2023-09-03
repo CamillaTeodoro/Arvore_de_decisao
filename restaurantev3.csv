@@ -1,0 +1,13 @@
+Alternativo;Bar;Sex/Sab;fome;Cliente;Preco;Chuva;Res;Tipo;Tempo;Conclusao
+Sim;Nao;Nao;Sim;010;100;Nao;Sim;Frances;0001;Sim
+Sim;Nao;Nao;Sim;100;001;Nao;Nao;Tailandes;0100;Nao
+Nao;Sim;Nao;Nao;010;001;Nao;Nao;Hamburger;0001;Sim
+Sim;Nao;Sim;Sim;100;001;Sim;Nao;Tailandes;0010;Sim
+Sim;Nao;Sim;Nao;100;100;Nao;Sim;Frances;1000;Nao
+Nao;Sim;Nao;Sim;010;010;Sim;Sim;Italiano;0001;Sim
+Nao;Sim;Nao;Nao;001;001;Sim;Nao;Hamburger;0001;Nao
+Nao;Nao;Nao;Sim;010;010;Sim;Sim;Tailandes;0001;Sim
+Nao;Sim;Sim;Nao;100;001;Sim;Nao;Hamburger;1000;Nao
+Sim;Sim;Sim;Sim;100;100;Nao;Sim;Italiano;0010;Nao
+Nao;Nao;Nao;Nao;001;001;Nao;Nao;Tailandes;0001;Nao
+Sim;Sim;Sim;Sim;100;001;Nao;Nao;Hamburger;0100;Sim
